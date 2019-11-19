@@ -1,0 +1,69 @@
+151341004,Male,Below 1 hour,Yes,Yes,Normal,Yes,Yes,True,A,8 hour,Yes,Yes,Yes,Yes,Yes,Maybe
+151341021,Male,2019-05-02 00:00:00,Yes,No,Low,Maybe,Yes,True,A,3 hrs,No,No,Yes,Yes,No,Yes
+151341012,Male,Below 1 hour,Yes,Maybe,Normal,No,No,True,B,4,Maybe,Maybe,No,Yes,Maybe,No
+151341008,Female,2019-05-02 00:00:00,No,Maybe,Low,Yes,No,False,B,8 hour,No,Yes,Yes,Yes,Yes,No
+151341011,Male,2019-05-02 00:00:00,No,No,Normal,Yes,Yes,True,A,3hour,Maybe,No,Yes,Maybe,No,Maybe
+151341029,Male,Below 1 hour,Maybe,No,Normal,No,Yes,True,A,10,Maybe,No,Yes,Maybe,No,Yes
+151341005,Female,2019-05-02 00:00:00,Yes,No,Normal,Yes,No,False,A,5,No,Yes,Yes,Yes,Yes,No
+151341006,Female,Above 5 hour,No,No,Normal,No,No,True,A,2 hour,Maybe,Yes,Maybe,Yes,No,No
+151341023,Female,2019-05-02 00:00:00,No,Maybe,Low,No,No,True,B,3/4 hours,Maybe,Yes,Maybe,Yes,No,Maybe
+151341009,Female,2019-05-02 00:00:00,Yes,Yes,Normal,Yes,Yes,True,A,0,Yes,No,No,Maybe,No,No
+151341014,Male,2019-05-02 00:00:00,Maybe,No,Normal,Maybe,No,False,A,2,No,No,Maybe,Yes,No,No
+151341026,Male,2019-05-02 00:00:00,Yes,No,Normal,Yes,Maybe,True,B,2,Yes,Yes,Yes,Yes,No,No
+151341013,Male,Below 1 hour,No,No,Normal,Yes,Yes,False,A,6,No,Maybe,Yes,Yes,No,No
+151341022,Male,Above 5 hour,No,No,Low,Yes,Maybe,True,B,2 hours,No,Maybe,Yes,Yes,No,No
+151341027,Male,2019-05-02 00:00:00,No,Maybe,Normal,Maybe,Maybe,True,A,6,No,Maybe,No,Maybe,No,No
+151341015,Male,2019-05-02 00:00:00,Maybe,Maybe,Normal,Maybe,Maybe,True,A,3,No,Maybe,Yes,Yes,No,No
+151341037,Male,2019-05-02 00:00:00,Yes,Yes,High,Yes,Yes,True,A,5,Yes,Yes,Yes,No,No,No
+151341038,Female,2019-05-02 00:00:00,No,No,Low,Yes,No,True,A,8hr,No,Yes,Yes,Yes,No,Yes
+151341035,Male,2019-05-02 00:00:00,Yes,No,Normal,No,Yes,True,A,1-2 hours,No,Maybe,Maybe,Yes,Maybe,Maybe
+141440945,Male,2019-05-02 00:00:00,No,Maybe,Normal,No,No,True,A,3-6 hours,No,Yes,No,Yes,Maybe,Maybe
+151341028,Male,Below 1 hour,No,Yes,Normal,No,Maybe,True,A,4,Yes,No,Yes,Yes,No,No
+151340994,Male,Above 5 hour,Yes,Maybe,Normal,No,No,True,A,5,No,No,Yes,No,Yes,No
+151340985,Male,Below 1 hour,Maybe,No,Normal,No,Yes,True,A,5hours,No,Yes,Yes,Yes,No,No
+151340990,Female,2019-05-02 00:00:00,Maybe,No,Low,Yes,No,True,B,1,No,No,No,Yes,No,No
+151340982,Female,2019-05-02 00:00:00,No,No,Normal,Yes,Yes,True,A,10 hour,Yes,No,Yes,Yes,Yes,No
+151340905,Female,2019-05-02 00:00:00,No,Maybe,Normal,Yes,No,False,A,14,Yes,Yes,Yes,Yes,No,No
+151340898,Female,2019-05-02 00:00:00,Maybe,No,Low,Yes,Yes,True,A,8 hour,Yes,No,Yes,Yes,No,Yes
+151340897,Male,Below 1 hour,Yes,Maybe,Normal,Maybe,Maybe,True,A,7,Yes,Yes,Yes,No,Yes,No
+151340907,Male,2019-05-02 00:00:00,Yes,Yes,Normal,Maybe,Yes,True,A,6,No,No,Maybe,Yes,No,No
+151340903,Male,2019-05-02 00:00:00,Yes,Maybe,Low,Maybe,Maybe,True,B,3,Yes,No,Maybe,Yes,No,No
+151340909,Female,2019-05-02 00:00:00,Maybe,Maybe,Normal,Maybe,No,True,A,3,Maybe,Yes,Yes,Yes,No,No
+151340913,Female,Above 5 hour,Yes,Maybe,Normal,Yes,No,False,B,2,Maybe,Yes,Yes,Yes,No,No
+151340920,Male,2019-05-02 00:00:00,Yes,No,Normal,Maybe,Maybe,True,B,3,Maybe,Yes,Yes,Yes,No,Yes
+151340894,Male,2019-05-02 00:00:00,Maybe,No,Normal,Maybe,No,False,B,2,Maybe,No,Yes,Yes,Yes,No
+151340901,Male,2019-05-02 00:00:00,Maybe,No,Normal,No,No,True,B,7-8 hours,No,No,Yes,No,No,Maybe
+151340910,Male,2019-05-02 00:00:00,Maybe,No,Normal,Maybe,No,True,A,1hour,Yes,Yes,Maybe,Yes,No,Yes
+151340916,Male,2019-05-02 00:00:00,Yes,No,Normal,Maybe,Yes,False,A,4hr,No,Yes,No,Yes,Yes,No
+151340911,Female,2019-05-02 00:00:00,No,No,Low,Yes,Maybe,True,A,3-4 hours,No,Yes,Yes,Yes,Yes,Maybe
+151340925,Male,Below 1 hour,Yes,Yes,Normal,No,Yes,True,A,4,No,No,Yes,Yes,Yes,Yes
+151340928,Male,2019-05-02 00:00:00,Yes,No,Normal,Maybe,No,True,B,6,Maybe,No,Yes,Maybe,No,No
+151340927,Female,Above 5 hour,Yes,Maybe,Low,Yes,Yes,True,A,10hours,No,No,Yes,Yes,Yes,Yes
+151340930,Male,2019-05-02 00:00:00,Yes,No,Normal,No,Yes,True,A,5 hours,Yes,Yes,Yes,Yes,Yes,No
+151340946,Female,Below 1 hour,Yes,Yes,Low,Yes,Yes,True,A,16,No,No,No,No,Yes,No
+151340934,Male,Above 5 hour,No,No,Normal,Maybe,Maybe,True,A,3 hours,Yes,Yes,Yes,Yes,No,Maybe
+151340945,Male,Below 1 hour,Maybe,Yes,Normal,Yes,Yes,True,A,8,Yes,Maybe,Yes,Maybe,Yes,No
+151340931,Male,Below 1 hour,No,No,Low,Yes,Yes,False,A,6,Yes,No,No,Yes,No,Maybe
+151340926,Male,2019-05-02 00:00:00,Yes,Maybe,Normal,Yes,Yes,True,A,6,Yes,Yes,Yes,Yes,No,Yes
+151340944,Male,Below 1 hour,Yes,Yes,Normal,Yes,Yes,True,A,8,No,Yes,Yes,Yes,No,No
+151340942,Female,Below 1 hour,Maybe,Yes,Normal,Yes,Yes,True,A,5 hours,Yes,No,No,No,Yes,Yes
+151340932,Male,2019-05-02 00:00:00,Yes,No,Normal,No,Yes,True,B,8,No,No,Yes,Yes,No,No
+151340933,Male,2019-05-02 00:00:00,Yes,Maybe,Normal,No,Yes,True,A,8,No,Maybe,Maybe,Yes,No,No
+151340923,Male,2019-05-02 00:00:00,Yes,Yes,Normal,Maybe,Yes,True,A,12,Yes,Maybe,Maybe,Yes,Maybe,Yes
+151340935,Male,2019-05-02 00:00:00,Yes,Yes,Normal,Yes,Yes,True,A,2,No,Yes,No,No,Yes,No
+151340943,Male,2019-05-02 00:00:00,No,Yes,Normal,No,Yes,True,A,8hour,No,Yes,Yes,Yes,No,No
+151340947,Female,2019-05-02 00:00:00,Yes,No,Low,Yes,No,True,B,10 hr,No,Yes,Yes,Yes,Maybe,Maybe
+151340937,Female,2019-05-02 00:00:00,Maybe,No,Normal,Yes,No,True,B,8,No,Maybe,Yes,Yes,No,No
+151340939,Female,2019-05-02 00:00:00,Maybe,Maybe,High,Yes,Maybe,False,A,7,Maybe,Yes,Yes,Yes,No,No
+141340900,Male,Above 5 hour,No,No,Normal,Yes,No,False,A,0hr,Yes,Yes,Yes,Yes,No,No
+151341039,Male,2019-05-02 00:00:00,Yes,No,Normal,Yes,Yes,False,B,5,No,Maybe,Yes,Yes,No,No
+151341020,Male,2019-05-02 00:00:00,No,No,Low,Yes,Yes,True,B,2,Maybe,Yes,Maybe,Yes,No,Yes
+151341045,Male,2019-05-02 00:00:00,Yes,No,Normal,Yes,Yes,True,A,4,Yes,Yes,No,Yes,No,No
+151341016,Male,Below 1 hour,Yes,Yes,Normal,Yes,Yes,True,A,5,Yes,Yes,Yes,Yes,Yes,Yes
+121440946,Male,Below 1 hour,Yes,Maybe,Normal,Maybe,Maybe,True,A,12,Maybe,Yes,No,Yes,Yes,No
+151341010,Male,2019-05-02 00:00:00,Yes,No,Normal,Maybe,Yes,True,B,6,No,No,Yes,Yes,Maybe,Maybe
+151341040,Female,2019-05-02 00:00:00,Yes,Yes,Low,Yes,No,True,A,5,Yes,No,Yes,No,No,No
+151341043,Male,2019-05-02 00:00:00,Maybe,No,Normal,Maybe,Maybe,True,A,6 Hours,Maybe,Maybe,Maybe,Maybe,No,No
+131440910,Female,2019-05-02 00:00:00,No,Yes,Normal,Yes,Maybe,True,A,4,Maybe,Maybe,Yes,Maybe,No,No
+151341036,Female,2019-05-02 00:00:00,No,No,Low,Yes,Yes,False,A,8,No,No,No,Yes,Maybe,No
+141440962,Male,2019-05-02 00:00:00,Yes,No,Normal,No,Yes,True,B,2 hours,Yes,No,Yes,Yes,Yes,Maybe
